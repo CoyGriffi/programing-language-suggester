@@ -13,3 +13,7 @@ text-align: center;
   box-shadow: 5px 6px;
   border-color: rgba(137, 43, 226, 0.63) ;
 }
+
+#restartbtn {
+  display: none;
+}

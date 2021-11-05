@@ -4,5 +4,8 @@ $(document).ready(function() {
   const color = $("input:radio[name=color]:checked").val();
   const city = $("input:radio[name=city]:checked").val();
   const computer = $("input:radio[name=computer]:checked").val();
-  
+
+  if (platform === "windows" ) {
+    $("").show();
+  }
 });
