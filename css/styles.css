@@ -17,3 +17,7 @@ text-align: center;
 #restartbtn {
   display: none;
 }
+
+#q1prompt {
+  display: none;
+}
