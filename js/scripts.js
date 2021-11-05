@@ -7,10 +7,6 @@ $(document).ready(function() {
   const city = $("input:radio[name=city]:checked").val();
   const computer = $("input:radio[name=computer]:checked").val();
 
-  if (platform === "mac" ) {
-    $("#q1prompt").show();
-    } else if (game === "chess") {
-      $("#q2prompt").show();
-    }
+  
   });
 });
