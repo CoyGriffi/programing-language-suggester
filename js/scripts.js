@@ -9,6 +9,8 @@ $(document).ready(function() {
 
   if (platform === "mac" ) {
     $("#q1prompt").show();
-    };
+    } else if (game === "chess") {
+      $("#q2prompt").show();
+    }
   });
 });
