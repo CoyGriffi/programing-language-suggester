@@ -19,7 +19,7 @@ Open by Downloading or Cloning
 * Or clone the repository
 
 Setup Instructions 
-*open HTML.index in prefered browser
+* open HTML.index in prefered browser
 
 
 
